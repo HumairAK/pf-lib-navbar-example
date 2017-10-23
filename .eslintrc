@@ -1,0 +1,19 @@
+{
+  parser: "babel-eslint",
+  "plugins": [
+    "react"
+  ],
+  "env": {
+    "browser" : true,
+    "jquery" : true,
+    "es6" : true,
+    "commonjs" : true
+  },
+  "rules":{
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended"],
+  "globals": {
+    "c3" : true,
+    "__dirname": true
+  }
+}
