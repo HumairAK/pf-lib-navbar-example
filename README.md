@@ -14,3 +14,5 @@ Run the following commands:
 <code>npm run build</code>
 
 <code>./start.sh</code>
+
+Visit localhost:8081
