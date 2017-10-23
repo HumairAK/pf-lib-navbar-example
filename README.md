@@ -5,9 +5,12 @@ An example that illustrates react-patternfly-lib navbar example usage.
 Ensure port 8081 is open.
 
 Run the following commands:
+<code>git clone https://github.com/HumairAK/pf-lib-navbar-example.git</code>
 
-git clone https://github.com/HumairAK/pf-lib-navbar-example.git
-cd pf-lib-navbar-example
-npm install
-npm run build
-./start.sh
+<code> cd pf-lib-navbar-example</code>
+
+<code>npm install</code>
+
+<code>npm run build</code>
+
+<code>./start.sh</code>
