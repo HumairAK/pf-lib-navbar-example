@@ -9,6 +9,10 @@ Run the following commands:
 
 <code> cd pf-lib-navbar-example</code>
 
+<code> git submodule init</code>
+
+<code> git submodule updaate</code>
+
 <code>npm install</code>
 
 <code>npm run build</code>
